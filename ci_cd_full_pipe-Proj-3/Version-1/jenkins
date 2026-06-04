@@ -55,7 +55,7 @@ pipeline {
 			environment {
 				GIT_REPO_NAME="Spring-boot-web-app"
 				GIT_USER_NAME="dev212b"
-				GIT_DEST_REPO="https://github.com/saikamal33/Mark-10-Kubernet_repo"
+				GIT_DEST_REPO="https://github.com/dev212b/Mark-10-Kubernet_repo"
 				GIT_DEST_DEPLOYMENT="kube-Mark-10.3/deployment.yml"
 			}
 			steps {
